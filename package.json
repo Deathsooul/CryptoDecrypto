@@ -1,0 +1,12 @@
+{
+  "name": "CrytoDecrypto",
+  "version": "1.0.0",
+  "main": "cryptography.js",
+  "repository": "https://github.com/Deathsooul/CrytoDecrypto.git",
+  "author": "Wallace <wbescrovaine@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0"
+  }
+}
